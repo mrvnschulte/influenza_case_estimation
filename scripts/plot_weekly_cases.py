@@ -125,7 +125,7 @@ def main() -> None:
         ha="right",
     )
 
-    output_file = PLOTS_DIRECTORY / "weekly_influenza_cases_2024_2025.png"
+    output_file = PLOTS_DIRECTORY / f"weekly_influenza_cases_{FLU_SEASON}.png"
 
     figure.tight_layout()
     figure.savefig(output_file, dpi=300, bbox_inches="tight")

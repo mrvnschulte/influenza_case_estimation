@@ -117,8 +117,10 @@ def weekly_influenza_cases(
     cases = np.floor(expected_cases).astype(int)
 
     remainder = total_cases - cases.sum()
-    largest_fractions = np.argsort(expected_cases - cases)[-remainder:]
-    cases[largest_fractions] += 1
+    
+    if remainder > 0:
+        largest_fractions = np.argsort(expected_cases - cases)[-remainder:]
+        cases[largest_fractions] += 1
 
     return cases
 
