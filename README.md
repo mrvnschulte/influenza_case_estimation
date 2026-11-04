@@ -119,7 +119,9 @@ The loaders expect CDC CSV files for ILINet, clinical laboratory test positivity
 
 If you use this software in your research, please cite:
 
-[Citation will be added upon publication]
+[Corresponding paper will be added upon publication]
+
+Schulte, M. (2026). *Influenza Case Estimation: Version 1.0* (Version v1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23964594
 
 ## License
 
