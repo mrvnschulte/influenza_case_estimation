@@ -251,7 +251,7 @@ def plot_flu_season(
     plt.tight_layout()
 
     output_file = (
-        f"{folder}/weekly_influenza_cases_by_variant_{flu_season}."
+        f"{folder}/weekly_influenza_cases_by_strain_{flu_season}."
         f"{fileformat}"
     )
 
