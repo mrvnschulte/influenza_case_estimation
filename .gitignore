@@ -2,3 +2,4 @@ plots/
 *.egg-info/
 __pycache__/
 build/
+!plots/.gitkeep
