@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/1446204734.svg)](https://doi.org/10.5281/zenodo.23964593)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23964593.svg)](https://doi.org/10.5281/zenodo.23964593)
 [![Tests](https://github.com/mrvnschulte/influenza_case_estimation/actions/workflows/tests.yml/badge.svg?branch=master)](https://github.com/mrvnschulte/influenza_case_estimation/actions/workflows/tests.yml)
 [![codecov](https://codecov.io/gh/mrvnschulte/influenza_case_estimation/branch/master/graph/badge.svg)](https://codecov.io/gh/mrvnschulte/influenza_case_estimation)
 [![Documentation](https://img.shields.io/badge/documentation-GitHub%20Pages-blue)](https://mrvnschulte.github.io/influenza_case_estimation/)
