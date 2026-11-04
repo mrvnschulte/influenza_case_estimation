@@ -1,4 +1,10 @@
 [![Tests](https://github.com/mrvnschulte/influenza_case_estimation/actions/workflows/tests.yml/badge.svg?branch=master)](https://github.com/mrvnschulte/influenza_case_estimation/actions/workflows/tests.yml)
+[![codecov](https://codecov.io/gh/mrvnschulte/influenza_case_estimation/branch/master/graph/badge.svg)](https://codecov.io/gh/mrvnschulte/influenza_case_estimation)
+[![Documentation](https://img.shields.io/badge/documentation-GitHub%20Pages-blue)](https://mrvnschulte.github.io/influenza_case_estimation/)
+
+<p align="center">
+  <img src="docs/source/_static/logo.png" alt="Influenza Case Estimation logo" width="180">
+</p>
 
 # Influenza Case Estimation
 
@@ -34,6 +40,13 @@ pip install -e ".[dev]"
 - pandas >= 1.3.0
 
 The plotting scripts also require Matplotlib.
+
+## Documentation
+
+The API documentation is available at:
+
+[https://mrvnschulte.github.io/influenza_case_estimation/](https://mrvnschulte.github.io/influenza_case_estimation/)
+
 
 ## Method Description
 

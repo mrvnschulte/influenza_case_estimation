@@ -26,7 +26,7 @@ jobs:
         run: >
           pytest tests/ -v --tb=short
           --junit-xml=report.xml
-          --cov=assignment_of_cases_to_variants
+          --cov=influenza_case_estimation
           --cov-report=xml:coverage.xml
           --cov-report=term
 
